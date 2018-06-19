@@ -1,0 +1,4 @@
+#Fri Jun 15 15:10:04 CEST 2018
+base.0=/home/chanaka/Sources/LearnInonic/MyIonicProject/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/chanaka/Sources/LearnInonic/MyIonicProject/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
