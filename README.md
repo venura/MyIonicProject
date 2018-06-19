@@ -1,4 +1,4 @@
-# MyIonicProject
+# MyIonicProject - Integrate deep link with branch.io
 
 npm install -g ionic cordova
 
